@@ -3284,12 +3284,12 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		color: #ffffff;
+		color: #050505;
 		padding: 8rem 4rem 6rem 4rem ;
-		-moz-align-items: center;
+		-moz-align-items: left;
 		-webkit-align-items: center;
 		-ms-align-items: center;
-		align-items: center;
+		align-items: left;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3324,7 +3324,7 @@ input, select, textarea {
 
 			#intro a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				color: #18ef92 !important;
 			}
 
 		#intro strong, #intro b {
@@ -3332,7 +3332,7 @@ input, select, textarea {
 		}
 
 		#intro h1, #intro h2, #intro h3, #intro h4, #intro h5, #intro h6 {
-			color: #ffffff;
+			color: #050505;
 		}
 
 		#intro blockquote {
